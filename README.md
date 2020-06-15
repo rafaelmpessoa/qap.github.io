@@ -17,8 +17,8 @@ O projeto surgiu de uma iniciativa de 5 pessoas, que ao participar de um Hackath
 Clique abaixo para ver um vídeo explicativo de como o QAP! Caminhoneiro funciona:
 [![Ver apresentação do QAP!](https://iili.io/JgWwo7.png)](https://bit.ly/qapcaminhoneiro)
 
-# Ecossistema sustentável
-
+# Benefícios
+![Benefício para os caminhoneiros](https://iili.io/JrEMx9.png)
 ![Ecossistema QAP caminhoneiro!](https://iili.io/JgWNV9.png)
 
 # Experimente
