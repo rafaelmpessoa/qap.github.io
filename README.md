@@ -15,7 +15,7 @@ O projeto surgiu de uma iniciativa de 5 pessoas, que ao participar de um Hackath
 # Como funciona?
 
 Clique abaixo para ver um vídeo explicativo de como o QAP! Caminhoneiro funciona:
-[![Ver apresentação do QAP!](https://iili.io/JgWwo7.png)](https://www.youtube.com/watch?v=41MMxwOaXJA&feature=youtu.be)
+[![Ver apresentação do QAP!](https://iili.io/JgWwo7.png)](https://bit.ly/qapcaminhoneiro)
 
 # Ecossistema sustentável
 
@@ -28,3 +28,6 @@ Faça o download da versão Android do QAP! clicando no botão abaixo:
 
 Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu celular para instalar o APK:
 ![QRCode QAP caminhoneiro!](https://iili.io/JgWbHv.jpg)
+
+# Quem somos?
+![Time QAP caminhoneiro!](https://iili.io/JrAA21.png)
