@@ -30,4 +30,4 @@ Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu c
 ![QRCode QAP caminhoneiro!](https://iili.io/JgWbHv.jpg)
 
 # Quem somos?
-![Time QAP caminhoneiro!](https://iili.io/JrAA21.png)
+![Time QAP caminhoneiro!](https://iili.io/Jr025B.png)
