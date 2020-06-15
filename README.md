@@ -1,7 +1,7 @@
 # QAP caminhoneiro!
 ![Imagem QAP caminhoneiro!](https://iili.io/JgW8Sj.png)
-O QAP! Caminhoneiro é um aplicativo constrói um ecossistema colaborativo que conecta as concessionárias, os postos de paradas de estrada e rodovias e os caminhoneiros, que mutuamente se beneficiam desta estrutura.
-O nome é uma mensagem que queremos passar de que estamos dispostos a ouví-los e que suas vozes importam. 
+O QAP Caminhoneiro! é um aplicativo que constrói um ecossistema colaborativo que conecta as concessionárias, os postos de paradas de estrada e rodovias e os caminhoneiros, que mutuamente se beneficiam desta estrutura.
+O nome é uma mensagem que queremos passar de que estamos dispostos a ouvir os caminhoneiros e que suas vozes importam. 
 
 # Objetivo
 Dar a possibilidade de os caminhoneiros opinaram e avaliarem os serviços, a infraestruturas e a segurança oferecida nos postos de paradas de maneira transparente, sendo recompensados por essas avaliações. Estes, além da maior visibilidade digital entre os caminhoneiros, também estabelecem um canal de comunicação real-time para feedback e melhorias. 
