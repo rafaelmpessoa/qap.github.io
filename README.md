@@ -10,6 +10,7 @@ Dar a possibilidade de os caminhoneiros opinaram e avaliarem os serviços, a inf
 O projeto surgiu de uma iniciativa de 5 pessoas, que ao participar de um Hackathon da CCR promovido pelo Shawee, buscaram entender e compreender a vida e a rotina dos caminhoneiros no país e criaram, juntos, uma solução inovadora para auxiliar nestes problemas.
 
 # Como funciona?
+Clique abaixo para ver um vídeo explicativo de como o QAP! Caminhoneiro funciona:
 [![Ver apresentação do QAP!](https://iili.io/JgWwo7.png)](https://www.youtube.com/watch?v=41MMxwOaXJA&feature=youtu.be)
 
 # Ecossistema sustentável
