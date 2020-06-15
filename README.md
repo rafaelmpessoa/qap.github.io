@@ -17,7 +17,7 @@ O projeto surgiu de uma iniciativa de 5 pessoas, que ao participar de um Hackath
 
 # Experimente
 Faça o download da versão Android do QAP! clicando no botão abaixo:
-[![Download versão para Android](https://iili.io/JghY4n.png=150x)](https://bit.ly/2Y1jI3B)
+[![Download versão para Android](https://iili.io/JghY4n.png)](https://bit.ly/2Y1jI3B)
 
 Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu celular para instalar o APK:
 ![QRCode QAP caminhoneiro!](https://iili.io/JgWbHv.jpg)
