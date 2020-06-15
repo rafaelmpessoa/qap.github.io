@@ -20,10 +20,10 @@ Clique abaixo para ver um vídeo explicativo de como o QAP! Caminhoneiro funcion
 ![Ecossistema QAP caminhoneiro!](https://iili.io/JgWNV9.png)
 
 # Experimente
-Faça o download da versão Android do QAP! clicando no botão abaixo:
+Faça o download da versão Android do QAP caminhoneiro! clicando no botão abaixo:
 [![Download versão para Android](https://iili.io/JghY4n.png)](https://bit.ly/2Y1jI3B)
 
-Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu celular para instalar o APK:
+Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu celular para fazer o download do app:
 ![QRCode QAP caminhoneiro!](https://iili.io/JgWbHv.jpg)
 
 # Quem somos?
