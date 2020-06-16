@@ -29,5 +29,5 @@ Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu c
 # Quem somos?
 ![Time QAP caminhoneiro!](https://iili.io/JrWG7j.md.png)
 
-# Gostou? Clique no caminhãozinho aí embaixo e deixe o seu recado pra gente! :)
+# Gostou? Clique no caminhãozinho e deixe o seu recado pra gente! :)
 [![Entre em contato conosco](https://iili.io/Jrjddu.png)](https://bit.ly/qapcaminhoneiro-forms)
