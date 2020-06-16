@@ -26,8 +26,8 @@ Faça o download da versão Android do QAP caminhoneiro! clicando no botão abai
 Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu celular para fazer o download do app:
 ![QRCode QAP caminhoneiro!](https://iili.io/JgWbHv.jpg)
 
-# Gostou? Clique no caminhãozinho aí embaixo e deixe o seu recado pra gente! :)
-[![Entre em contato conosco](https://iili.io/Jrjddu.png)](https://bit.ly/qapcaminhoneiro-forms)
-
 # Quem somos?
 ![Time QAP caminhoneiro!](https://iili.io/JrWG7j.md.png)
+
+# Gostou? Clique no caminhãozinho aí embaixo e deixe o seu recado pra gente! :)
+[![Entre em contato conosco](https://iili.io/Jrjddu.png)](https://bit.ly/qapcaminhoneiro-forms)
