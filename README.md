@@ -9,19 +9,19 @@ Dar a possibilidade de os caminhoneiros opinaram e avaliarem os serviços, a inf
 # Como surgiu?
 O projeto surgiu de uma iniciativa de 5 pessoas, que ao participar de um Hackathon da CCR promovido pelo Shawee, buscaram entender e compreender a vida e a rotina dos caminhoneiros no país e criaram, juntos, uma solução inovadora para auxiliar nestes problemas.
 
-# Como funciona?
-Clique abaixo para ver um vídeo explicativo de como o QAP! Caminhoneiro funciona:
-[![Ver apresentação do QAP!](https://iili.io/JgWwo7.png)](https://bit.ly/qapcaminhoneiro)
-
 # Benefícios para os caminhoneiros
 ![Benefício para os caminhoneiros](https://iili.io/JrEMx9.png)
 
 # Ecossistema sustentável
 ![Ecossistema QAP caminhoneiro!](https://iili.io/JgWNV9.png)
 
+# Como funciona?
+Clique abaixo para ver um vídeo explicativo de como o QAP! Caminhoneiro funciona:
+[![Ver apresentação do QAP!](https://iili.io/JgWwo7.png)](https://bit.ly/qapcaminhoneiro)
+
 # Experimente
 Faça o download da versão Android do QAP caminhoneiro! clicando no botão abaixo:
-[![Download versão para Android](https://iili.io/JghY4n.png)](https://bit.ly/2Y1jI3B)
+[![Download versão para Android](https://iili.io/JghY4n.png)](https://bit.ly/qapcaminhoneiro-download)
 
 Caso esteja acessando o site pelo notebook, escaneie o QRCode abaixo com o seu celular para fazer o download do app:
 ![QRCode QAP caminhoneiro!](https://iili.io/JgWbHv.jpg)
